@@ -4,7 +4,7 @@
     <summary>
             <h1 style="display: inline-block;">
                 <samp>
-                    「 <a href="https://forums.x-plane.org/index.php?/profile/984286-cactus2456/">Cactus</a> 」
+                    「 <a >Irfan</a> 」
                     <br>
                     <br>
                 </samp>
@@ -13,10 +13,10 @@
   </ul>
 </div>
 
-<a href="https://www.instagram.com/thomasfotomas/"><img align="left" width="170" src="https://raw.githubusercontent.com/iasxp/iasxp/main/DSC05946.jpeg"></a>
+<a href="https://www.instagram.com/thomasfotomas/"><img align="left" width="200" src="https://i.ibb.co/KDcwZwF/Snapinsta-app-365019268-310978438045124-5317739062334742926-n-1080.jpg"></a>
 
 <div>
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter&perline=5" style="padding-top: 15px;"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter&perline=10" style="padding-top: 15px;"/>
 <h2><samp>contact me</samp></h2>
 <samp>I would love to hear from you! feel free to contact me about anything and I will be happy to respond.</samp>
 </br>
