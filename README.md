@@ -13,7 +13,7 @@
   </ul>
 </div>
 
-<a href="https://www.instagram.com/thomasfotomas/"><img align="left" width="200" src="https://i.ibb.co/KDcwZwF/Snapinsta-app-365019268-310978438045124-5317739062334742926-n-1080.jpg"></a>
+<a ><img align="left" width="200" src="https://i.ibb.co/7KkwhCy/IMG-0330.jpg"></a>
 
 <div>
 <img src="https://skillicons.dev/icons?i=c,cpp,lua,linux,vim,vscode,discord,blender,java,flutter,python&perline=11" style="padding-top: 15px;"/>
